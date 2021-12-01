@@ -53,4 +53,3 @@ $("#hour17 .task").val(localStorage.getItem("hour17"));
 
 
 
-showTasks()
