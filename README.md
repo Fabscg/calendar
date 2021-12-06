@@ -11,19 +11,30 @@ At the top of the page we have the title and under the title I display the day o
 
 ## As it is save the calendar also has a dynamic colors to make sure ityou dont missed anything
 
-### 1-Gray: past
+## 1-Gray: past
 
-### 2-Red:Present(time for the task)
+## 2-Red:Present(time for the task)
+
+
+## 3-Green: Future tasks or plans
+
+### __I used for this roject__
+- HTML
+- CSS
+- JavaScript
+- Moment() **For the current time, day and month** 
+
 
 # Github Repository
 [title](git@github.com:Fabskickass/calendar.git)
 
 # URL
 
-[title](https://fabskickass.github.io/calendar/)
+[title](https://fabskickass.github.io/calendar/)]
+
+![Image from the mock-up Calendar](./assets/images/calendar.png)
 
 
 
-### 3-Green: Future tasks or plans
 
 

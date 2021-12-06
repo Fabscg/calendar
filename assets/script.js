@@ -30,7 +30,7 @@ function setTimeColor() {
         }
     })
 }
-// created a variable called id for the id(attr) of the save button that we are clicking on
+// created a variable called id for the id(attr) of the save button that we are clicked on
 saveButton.on("click", function () {
     var task = $(this).siblings(".description").val();
     var hour = $(this).parent().attr("id");
